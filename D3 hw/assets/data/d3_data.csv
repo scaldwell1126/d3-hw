@@ -1,0 +1,53 @@
+id ,state ,abbr,degree,dentist
+1,Alabama,AL,6.8,60.2
+2,Alaska,AK,7,63.9
+3,Arizona,AZ,6.9,58.6
+4,Arkansas,AR,7.4,57.2
+5,California,CA,9.5,64.9
+6,Colorado,CO,11.2,66.9
+7,Connecticut,CT,14.1,74.6
+8,Delaware,DE,8.5,66
+9,District of Columbia,DC,23.7,70.5
+10,Florida,FL,8.2,61.4
+11,Georgia,GA,8.2,60.5
+12,Hawaii,HI,7.5,71
+13,Idaho,ID,5.5,64.1
+14,Illinois,IL,12.9,63.6
+15,Indiana,IN,9,61.3
+16,Iowa,IA,9.8,69.2
+17,Kansas,KS,10.3,67.1
+18,Kentucky,KY,8.4,61
+19,Louisiana,LA,7.2,58.3
+20,Maine,ME,10.9,62.3
+21,Maryland,MD,12.7,69.6
+22,Massachusetts,MA,17.2,74.6
+23,Michigan,MI,9.7,68
+24,Minnesota,MN,12.8,72.3
+25,Mississippi,MS,5.7,56.9
+26,Missouri,MO,9.2,58.3
+27,Montana,MT,6.7,61.8
+28,Nebraska,NE,10.9,66.2
+29,Nevada,NV,5.4,59.8
+30,New Hampshire,NH,12,68.5
+31,New Jersey,NJ,14.4,69.9
+32,New Mexico,NM,5,61.1
+33,New York,NY,15.1,67.1
+34,North Carolina,NC,9.5,63.9
+35,North Dakota,ND,12.9,65.4
+36,Ohio,OH,9.5,65.3
+37,Oklahoma,OK,7.1,56.9
+38,Oregon,OR,7.6,65.6
+39,Pennsylvania,PA,12.1,66.9
+40,Rhode Island,RI,12.1,71.5
+41,South Carolina,SC,8.4,58.1
+42,South Dakota,SD,7.1,70.8
+43,Tennessee,TN,8.8,58.4
+44,Texas,TX,7.8,58.2
+45,Utah,UT,6.6,69.2
+46,Vermont,VT,12.7,71.5
+47,Virginia,VA,12.1,69.1
+48,Washington,WA,10.6,66.6
+49,West Virginia,WV,6.9,54.9
+50,Wisconsin,WI,10.5,69.6
+51,Wyoming,WY,6.6,64.6
+52,Puerto Rico,PR,7.6,66.4
